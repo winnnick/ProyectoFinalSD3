@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\crearcapacitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\crearcapacitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\crearempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\crearempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\crearinforme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\crearinforme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\crearnomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\crearnomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\crearpermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\crearpermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\crearvacaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\crearvacaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\editarcapacitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\editarcapacitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\editarempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\editarempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\editarinforme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\editarinforme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\editarnomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\editarnomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\editarpermisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\editarpermisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\editarvacaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\editarvacaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\editarvacaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\editarvacaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|c:\\users\\nick\\desktop\\nueva carpeta\\webapplication1\\capavista\\editarnomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}|CAPAVISTA\\CAPAVISTA.csproj|solutionrelative:capavista\\editarnomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrearCapacitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\CrearCapacitaciones.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\CrearCapacitaciones.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\CrearCapacitaciones.cs",
+              "RelativeToolTip": "CAPAVISTA\\CrearCapacitaciones.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:20:02.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\CrearEmpleados.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\CrearEmpleados.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\CrearEmpleados.cs",
+              "RelativeToolTip": "CAPAVISTA\\CrearEmpleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:19:54.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrearInforme.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\CrearInforme.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\CrearInforme.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\CrearInforme.cs",
+              "RelativeToolTip": "CAPAVISTA\\CrearInforme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:19:33.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrearNomina.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\CrearNomina.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\CrearNomina.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\CrearNomina.cs",
+              "RelativeToolTip": "CAPAVISTA\\CrearNomina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:19:13.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrearPermiso.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\CrearPermiso.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\CrearPermiso.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\CrearPermiso.cs",
+              "RelativeToolTip": "CAPAVISTA\\CrearPermiso.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:19:09.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrearVacaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\CrearVacaciones.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\CrearVacaciones.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\CrearVacaciones.cs",
+              "RelativeToolTip": "CAPAVISTA\\CrearVacaciones.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAADwv18AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:18:46.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditarCapacitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarCapacitaciones.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\EditarCapacitaciones.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarCapacitaciones.cs",
+              "RelativeToolTip": "CAPAVISTA\\EditarCapacitaciones.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAG4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:17:42.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditarEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarEmpleados.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\EditarEmpleados.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarEmpleados.cs",
+              "RelativeToolTip": "CAPAVISTA\\EditarEmpleados.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv1UAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:17:12.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditarInforme.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarInforme.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\EditarInforme.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarInforme.cs",
+              "RelativeToolTip": "CAPAVISTA\\EditarInforme.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:17:07.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditarPermisos.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarPermisos.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\EditarPermisos.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarPermisos.cs",
+              "RelativeToolTip": "CAPAVISTA\\EditarPermisos.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:16:23.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditarVacaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarVacaciones.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\EditarVacaciones.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarVacaciones.cs",
+              "RelativeToolTip": "CAPAVISTA\\EditarVacaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:15:41.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditarVacaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarVacaciones.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\EditarVacaciones.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarVacaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CAPAVISTA\\EditarVacaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:15:39.132Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\Form1.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CAPAVISTA\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:13:58.379Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditarNomina.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarNomina.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\EditarNomina.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarNomina.cs",
+              "RelativeToolTip": "CAPAVISTA\\EditarNomina.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:13:18.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditarNomina.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarNomina.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\EditarNomina.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\EditarNomina.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CAPAVISTA\\EditarNomina.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:02:47.975Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\Form1.cs",
+              "RelativeDocumentMoniker": "CAPAVISTA\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nick\\Desktop\\Nueva carpeta\\WebApplication1\\CAPAVISTA\\Form1.cs",
+              "RelativeToolTip": "CAPAVISTA\\Form1.cs",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAAAG8BAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:16:19.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

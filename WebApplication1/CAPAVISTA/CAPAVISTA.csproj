@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1C4E2ADD-A7DD-4B94-8811-3DFBCB0E20D8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CAPAVISTA</RootNamespace>
+    <AssemblyName>CAPAVISTA</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CrearCapacitaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrearCapacitaciones.Designer.cs">
+      <DependentUpon>CrearCapacitaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrearEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrearEmpleados.Designer.cs">
+      <DependentUpon>CrearEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrearInforme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrearInforme.Designer.cs">
+      <DependentUpon>CrearInforme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrearNomina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrearNomina.Designer.cs">
+      <DependentUpon>CrearNomina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrearPermiso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrearPermiso.Designer.cs">
+      <DependentUpon>CrearPermiso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrearVacaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrearVacaciones.Designer.cs">
+      <DependentUpon>CrearVacaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarCapacitaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarCapacitaciones.Designer.cs">
+      <DependentUpon>EditarCapacitaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarEmpleados.Designer.cs">
+      <DependentUpon>EditarEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarInforme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarInforme.Designer.cs">
+      <DependentUpon>EditarInforme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarNomina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarNomina.Designer.cs">
+      <DependentUpon>EditarNomina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarPermisos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarPermisos.Designer.cs">
+      <DependentUpon>EditarPermisos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarVacaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarVacaciones.Designer.cs">
+      <DependentUpon>EditarVacaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CrearCapacitaciones.resx">
+      <DependentUpon>CrearCapacitaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrearEmpleados.resx">
+      <DependentUpon>CrearEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrearInforme.resx">
+      <DependentUpon>CrearInforme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrearNomina.resx">
+      <DependentUpon>CrearNomina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrearPermiso.resx">
+      <DependentUpon>CrearPermiso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrearVacaciones.resx">
+      <DependentUpon>CrearVacaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarCapacitaciones.resx">
+      <DependentUpon>EditarCapacitaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarEmpleados.resx">
+      <DependentUpon>EditarEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarInforme.resx">
+      <DependentUpon>EditarInforme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarNomina.resx">
+      <DependentUpon>EditarNomina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarPermisos.resx">
+      <DependentUpon>EditarPermisos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarVacaciones.resx">
+      <DependentUpon>EditarVacaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{602fd7d7-8c36-4ed6-ada7-287081562853}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

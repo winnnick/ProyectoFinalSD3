@@ -1,0 +1,49 @@
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\bin\Debug\CAPAVISTA.exe.config
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\bin\Debug\CAPAVISTA.exe
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\bin\Debug\CAPAVISTA.pdb
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\bin\Debug\CapaDatos.dll
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\bin\Debug\CapaDatos.pdb
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.csproj.AssemblyReference.cache
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.Form1.resources
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.Properties.Resources.resources
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.csproj.GenerateResource.cache
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.csproj.CoreCompileInputs.cache
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.csproj.Up2Date
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.exe
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.pdb
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.CrearEmpleados.resources
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.EditarEmpleados.resources
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.CrearCapacitaciones.resources
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.CrearInforme.resources
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.EditarCapacitaciones.resources
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.CrearVacaciones.resources
+C:\Users\v_tej\Desktop\sisinf3\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.EditarVacaciones.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\bin\Debug\CAPAVISTA.exe.config
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\bin\Debug\CAPAVISTA.exe
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\bin\Debug\CAPAVISTA.pdb
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\bin\Debug\CapaDatos.dll
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\bin\Debug\CapaDatos.pdb
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.csproj.AssemblyReference.cache
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.CrearCapacitaciones.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.CrearEmpleados.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.CrearInformes.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.CrearNominas.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.CrearPermisos.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.CrearVacaciones.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.EditarCapacitaciones.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.EditarEmpleados.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.EditarInformes.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.EditarNominas.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.EditarPermisos.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.EditarVacaciones.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.Form1.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.Properties.Resources.resources
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.csproj.GenerateResource.cache
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.csproj.Up2Date
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.exe
+C:\Users\Nick\Desktop\Nueva carpeta\WebApplication1\CAPAVISTA\obj\Debug\CAPAVISTA.pdb
